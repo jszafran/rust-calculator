@@ -1,0 +1,41 @@
+org_node_column = "org_node"
+
+[[columns]]
+code = "q1"
+text = "text 1"
+min_value = 1
+max_value = 6
+nullable = true
+of_type = "question"
+
+[[columns]]
+code = "q2"
+text = "text 2"
+min_value = 1
+max_value = 6
+nullable = true
+of_type = "question"
+
+[[columns]]
+code = "q3"
+text = "text 3"
+min_value = 1
+max_value = 6
+nullable = true
+of_type = "question"
+
+[[columns]]
+code = "d1"
+text = "demographic 1"
+min_value = 1
+max_value = 3
+nullable = true
+of_type = "demographic"
+
+[[columns]]
+code = "d2"
+text = "demographic 2"
+min_value = 1
+max_value = 5
+nullable = true
+of_type = "demographic"
